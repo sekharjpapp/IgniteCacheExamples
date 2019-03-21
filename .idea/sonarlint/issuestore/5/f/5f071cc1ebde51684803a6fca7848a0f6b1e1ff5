@@ -1,0 +1,5 @@
+
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(»øæ¡
+¢%squid:RedundantThrowsDeclarationCheck
+"lRemove the declaration of thrown exception 'org.apache.ignite.IgniteException' which is a runtime exception.(ş»èùÿÿÿÿ

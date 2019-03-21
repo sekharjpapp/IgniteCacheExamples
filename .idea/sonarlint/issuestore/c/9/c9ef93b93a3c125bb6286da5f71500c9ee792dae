@@ -1,0 +1,16 @@
+
+usquid:S001165"QRename this field "LOGGER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èÚÆûÿÿÿÿ8Óª²¢”-
+V
+squid:S106)"9Replace this use of System.out or System.err by a logger.(»øæ¡8Óª²¢”-
+O
+squid:S106+"9Replace this use of System.out or System.err by a logger.(»øæ¡
+V
+squid:S106$"9Replace this use of System.out or System.err by a logger.(Ö™ñ—8Óª²¢”-
+©%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'org.apache.ignite.IgniteException' which is a runtime exception.(ş»èùÿÿÿÿ8Óª²¢”-
+O
+squid:S106,"9Replace this use of System.out or System.err by a logger.(»øæ¡
+”squid:UselessImportCheck
+"dRemove this unused import 'org.apache.ignite.springdata.repository.config.EnableIgniteRepositories'.(¾Ùñ¢ûÿÿÿÿ8ï˜²¢”-
+hsquid:CommentedOutCodeLine%"<This block of commented-out lines of code should be removed.(ñÈ­K8Óª²¢”-
+O
+squid:S106*"9Replace this use of System.out or System.err by a logger.(»øæ¡

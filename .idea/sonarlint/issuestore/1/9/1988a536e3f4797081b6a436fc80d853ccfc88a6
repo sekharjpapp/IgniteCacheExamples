@@ -1,0 +1,15 @@
+
+[
+squid:S106:"9Replace this use of System.out or System.err by a logger.(Ş¾±ùÿÿÿÿ8Ìœò“-
+psquid:S1450"RRemove the "ctx" field and declare it as a local variable in the relevant methods.(Í£ôí8Ìœò“-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(™ë¢Ãúÿÿÿÿ8Ìœò“-
+Vsquid:UselessImportCheck"+Remove this unused import 'java.util.Date'.(¸…¼ü8Ìœò“-
+U
+squid:S106*"9Replace this use of System.out or System.err by a logger.(½Ğë8Ìœò“-
+ƒsquid:UselessImportCheck
+"SRemove this unused import 'org.springframework.beans.factory.annotation.Qualifier'.(íàÄ®ıÿÿÿÿ8Ìœò“-
+V
+squid:S1065"9Replace this use of System.out or System.err by a logger.(ü†ïÚ8Ìœò“-
+V
+squid:S106&"9Replace this use of System.out or System.err by a logger.(ıËÇ‘8Ìœò“-

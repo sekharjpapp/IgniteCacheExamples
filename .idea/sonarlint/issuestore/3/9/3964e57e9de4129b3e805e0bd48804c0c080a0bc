@@ -1,0 +1,16 @@
+
+T
+squid:S106M"9Replace this use of System.out or System.err by a logger.(Ş¾±ùÿÿÿÿ
+T
+squid:S106("9Replace this use of System.out or System.err by a logger.(™ë¢Ãúÿÿÿÿ
+vsquid:UselessImportCheck"KRemove this unused import 'org.springframework.cache.annotation.Cacheable'.(İºØ“8¯„æ”-
+N
+squid:S106<"9Replace this use of System.out or System.err by a logger.(½Ğë
+ssquid:UselessImportCheck"ORemove this unused import 'org.springframework.cache.annotation.EnableCaching'.(ÍŠ³Ï
+[
+squid:S106&"9Replace this use of System.out or System.err by a logger.(©»úŸÿÿÿÿÿ8Ûºò“-
+O
+squid:S106H"9Replace this use of System.out or System.err by a logger.(ü†ïÚ
+squid:UselessImportCheck"dRemove this unused import 'org.apache.ignite.springdata.repository.config.EnableIgniteRepositories'.(¾Ùñ¢ûÿÿÿÿ
+O
+squid:S1067"9Replace this use of System.out or System.err by a logger.(ıËÇ‘
